@@ -1,4 +1,5 @@
 // Problem 1 Reversing the string
+// To reverse the string we need to replace the characters
 let nameKo = "Christian David Jasmin";
 let number = nameKo.length - 1;
 let horizontalView = "";
