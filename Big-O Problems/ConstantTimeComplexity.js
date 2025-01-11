@@ -17,4 +17,4 @@ const productPrices = {
 };
 
 findProductPricesIfExist(productPrices, "banana")
-findProductPricesIfExist(productPrices, "tite")
+findProductPricesIfExist(productPrices, "orange")
