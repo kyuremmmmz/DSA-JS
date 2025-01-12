@@ -10,6 +10,7 @@ const findProductPricesIfExist = (products, productName) => {
     }
 }
 
+
 const productPrices = {
     "apple": 1.5,
     "banana": 0.9,
