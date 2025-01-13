@@ -7,3 +7,4 @@ const factorial = (n) => {
 }
 
 factorial(4)
+factorial(5)
